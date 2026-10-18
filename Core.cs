@@ -6,6 +6,7 @@ using MelonLoader;
 
 [assembly: MelonInfo(typeof(WhiteFrame.Core), "WhiteFrame", "1.0.0", "Nullframe Collective", null)]
 [assembly: MelonGame("ZeoWorks", "Slendytubbies 3")]
+[assembly: MelonColor(8, 82, 82, 82)]
 
 namespace WhiteFrame
 {
